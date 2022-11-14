@@ -1,1 +1,1 @@
-This is lab4 for exp3 to push and pull file on github using remote repo
+This is prac for DevOps lab :)
